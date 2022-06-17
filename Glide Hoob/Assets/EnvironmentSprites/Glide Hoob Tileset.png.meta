@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 46c1c299edc9b58428f2c9aae62f75e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3204677181515880489
+    second: Glide Hoob Tileset_0
+  - first:
+      213: -4450952893008601733
+    second: Glide Hoob Tileset_1
+  - first:
+      213: -4358340060093852485
+    second: Glide Hoob Tileset_2
+  - first:
+      213: -8384448026518909570
+    second: Glide Hoob Tileset_3
+  - first:
+      213: -6648363527783683497
+    second: Glide Hoob Tileset_4
+  - first:
+      213: -6661289800248258713
+    second: Glide Hoob Tileset_5
+  - first:
+      213: -4009934725701737109
+    second: Glide Hoob Tileset_6
+  - first:
+      213: -4604516622656184424
+    second: Glide Hoob Tileset_7
+  - first:
+      213: -3384616530674442455
+    second: Glide Hoob Tileset_8
+  - first:
+      213: -3527372713493019067
+    second: Glide Hoob Tileset_9
+  - first:
+      213: 3938890241254126424
+    second: Glide Hoob Tileset_10
+  - first:
+      213: -2697108717730250447
+    second: Glide Hoob Tileset_11
+  - first:
+      213: 8363481713259921897
+    second: Glide Hoob Tileset_12
+  - first:
+      213: -8340772079531857201
+    second: Glide Hoob Tileset_13
+  - first:
+      213: -1687058203039266140
+    second: Glide Hoob Tileset_14
+  - first:
+      213: 2886445515502476729
+    second: Glide Hoob Tileset_15
+  - first:
+      213: 4521489262996690707
+    second: Glide Hoob Tileset_16
+  - first:
+      213: 760462629659771387
+    second: Glide Hoob Tileset_17
+  - first:
+      213: 933586263652495981
+    second: Glide Hoob Tileset_18
+  - first:
+      213: -5057679437898618122
+    second: Glide Hoob Tileset_19
+  - first:
+      213: 6392118296867446068
+    second: Glide Hoob Tileset_20
+  - first:
+      213: 6581466335573326203
+    second: Glide Hoob Tileset_21
+  - first:
+      213: 1450923640192673698
+    second: Glide Hoob Tileset_22
+  - first:
+      213: 1348603325561442196
+    second: Glide Hoob Tileset_23
+  - first:
+      213: -8106292392365842731
+    second: Glide Hoob Tileset_24
+  - first:
+      213: -5950909291505322138
+    second: Glide Hoob Tileset_25
+  - first:
+      213: -3463950799409207568
+    second: Glide Hoob Tileset_26
+  - first:
+      213: -8786019449684153000
+    second: Glide Hoob Tileset_27
+  - first:
+      213: 564479578782035079
+    second: Glide Hoob Tileset_28
+  - first:
+      213: 736343196745580238
+    second: Glide Hoob Tileset_29
+  - first:
+      213: -8134051807762227981
+    second: Glide Hoob Tileset_30
+  - first:
+      213: 3222781909585599149
+    second: Glide Hoob Tileset_31
+  - first:
+      213: -6683446202618136042
+    second: Glide Hoob Tileset_32
+  - first:
+      213: 3748618255550483482
+    second: Glide Hoob Tileset_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -5}
+        - {x: 17, y: -5}
+        - {x: 16, y: -4}
+        - {x: 9, y: -4}
+        - {x: 5, y: -8}
+        - {x: 5, y: -16}
+        - {x: 7, y: -18}
+        - {x: 5, y: -21}
+        - {x: 5, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -4}
+        - {x: 23, y: -4}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7d722ff1513b683d0800000000000000
+      internalID: -3204677181515880489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -3}
+        - {x: 12, y: -3}
+        - {x: 11, y: -4}
+        - {x: 8, y: -3}
+        - {x: 1, y: -2}
+        - {x: 0, y: -3}
+        - {x: -3, y: -3}
+        - {x: -4, y: -4}
+        - {x: -7, y: -2}
+        - {x: -11, y: -2}
+        - {x: -13, y: -4}
+        - {x: -17, y: -5}
+        - {x: -19, y: -3}
+        - {x: -23, y: -3}
+        - {x: -25, y: -4}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -4}
+        - {x: 23, y: -4}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b7d993c0de90b32c0800000000000000
+      internalID: -4450952893008601733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -16, y: -4}
+        - {x: -20, y: -5}
+        - {x: -21, y: -4}
+        - {x: -25, y: -4}
+        - {x: -25, y: -25}
+        - {x: -4, y: -25}
+        - {x: -4, y: -18}
+        - {x: -3, y: -17}
+        - {x: -3, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bb450cb8ec01483c0800000000000000
+      internalID: -4358340060093852485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -11}
+        - {x: -3, y: -6}
+        - {x: -5, y: -2}
+        - {x: -3, y: 0}
+        - {x: -3, y: 2}
+        - {x: 1, y: 2}
+        - {x: 5, y: 4}
+        - {x: 8, y: 4}
+        - {x: 12, y: 2}
+        - {x: 19, y: 2}
+        - {x: 22, y: 4}
+        - {x: 25, y: 4}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -4, y: -25}
+        - {x: -4, y: -21}
+        - {x: -2, y: -18}
+        - {x: -2, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e7d8d9d41f474ab80800000000000000
+      internalID: -8384448026518909570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 3}
+        - {x: 25, y: 4}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 4}
+        - {x: -22, y: 4}
+        - {x: -20, y: 6}
+        - {x: -17, y: 6}
+        - {x: -14, y: 4}
+        - {x: -10, y: 4}
+        - {x: -9, y: 5}
+        - {x: 1, y: 5}
+        - {x: 2, y: 4}
+        - {x: 5, y: 4}
+        - {x: 6, y: 3}
+        - {x: 9, y: 3}
+        - {x: 11, y: 5}
+        - {x: 15, y: 5}
+        - {x: 19, y: 3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 75a6ac498944cb3a0800000000000000
+      internalID: -6648363527783683497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: 4}
+        - {x: -22, y: 4}
+        - {x: -20, y: 5}
+        - {x: -16, y: 3}
+        - {x: -8, y: 2}
+        - {x: -7, y: 3}
+        - {x: -2, y: 3}
+        - {x: 0, y: 4}
+        - {x: 2, y: 3}
+        - {x: 2, y: 1}
+        - {x: 5, y: -2}
+        - {x: 5, y: -9}
+        - {x: 3, y: -11}
+        - {x: 3, y: -16}
+        - {x: 5, y: -20}
+        - {x: 5, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 76f054e38385e83a0800000000000000
+      internalID: -6661289800248258713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: 19, y: 25}
+        - {x: 15, y: 24}
+        - {x: 14, y: 25}
+        - {x: -2, y: 25}
+        - {x: -3, y: 24}
+        - {x: -6, y: 24}
+        - {x: -8, y: 25}
+        - {x: -18, y: 25}
+        - {x: -25, y: 18}
+        - {x: -25, y: 16}
+        - {x: -23, y: 12}
+        - {x: -25, y: 10}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: 22, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b656b0ecc99d958c0800000000000000
+      internalID: -4009934725701737109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -17, y: 24}
+        - {x: -18, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 89f523807887910c0800000000000000
+      internalID: -4604516622656184424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -4}
+        - {x: 25, y: 16}
+        - {x: 23, y: 18}
+        - {x: 23, y: 20}
+        - {x: 20, y: 24}
+        - {x: 19, y: 25}
+        - {x: -13, y: 25}
+        - {x: -17, y: 24}
+        - {x: -18, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -7}
+        - {x: 24, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 92f1c34a23d6701d0800000000000000
+      internalID: -3384616530674442455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 4, y: 24}
+        - {x: 4, y: 21}
+        - {x: 7, y: 15}
+        - {x: 7, y: 10}
+        - {x: 4, y: 7}
+        - {x: 4, y: 4}
+        - {x: 5, y: 1}
+        - {x: 6, y: 0}
+        - {x: 6, y: -4}
+        - {x: 7, y: -5}
+        - {x: 7, y: -12}
+        - {x: 5, y: -14}
+        - {x: 5, y: -19}
+        - {x: 4, y: -20}
+        - {x: 4, y: -23}
+        - {x: 5, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 546c7d5b4314c0fc0800000000000000
+      internalID: -3527372713493019067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85374372ecfb9a630800000000000000
+      internalID: 3938890241254126424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -10}
+        - {x: -4, y: -1}
+        - {x: -5, y: 0}
+        - {x: -4, y: 4}
+        - {x: -3, y: 13}
+        - {x: -4, y: 15}
+        - {x: -2, y: 17}
+        - {x: -2, y: 20}
+        - {x: -3, y: 21}
+        - {x: -4, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -4, y: -25}
+        - {x: -3, y: -18}
+        - {x: -5, y: -16}
+        - {x: -5, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 131441f39e1f19ad0800000000000000
+      internalID: -2697108717730250447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -10}
+        - {x: -4, y: -1}
+        - {x: -5, y: 0}
+        - {x: -4, y: 4}
+        - {x: -3, y: 13}
+        - {x: -4, y: 15}
+        - {x: -2, y: 17}
+        - {x: -2, y: 20}
+        - {x: -3, y: 21}
+        - {x: -4, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -4, y: -25}
+        - {x: -3, y: -18}
+        - {x: -5, y: -16}
+        - {x: -5, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9e1455c7e4e011470800000000000000
+      internalID: 8363481713259921897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 4, y: 24}
+        - {x: 4, y: 21}
+        - {x: 7, y: 15}
+        - {x: 7, y: 10}
+        - {x: 4, y: 7}
+        - {x: 4, y: 4}
+        - {x: 5, y: 1}
+        - {x: 6, y: 0}
+        - {x: 6, y: -4}
+        - {x: 7, y: -5}
+        - {x: 7, y: -12}
+        - {x: 5, y: -14}
+        - {x: 5, y: -19}
+        - {x: 4, y: -20}
+        - {x: 4, y: -23}
+        - {x: 5, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: fcae1072cff9f3c80800000000000000
+      internalID: -8340772079531857201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: 16}
+        - {x: -24, y: 15}
+        - {x: -24, y: 10}
+        - {x: -25, y: 9}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4aa8f64b08d5698e0800000000000000
+      internalID: -1687058203039266140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5b0f37e6be0820800000000000000
+      internalID: 2886445515502476729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 31719a0678e8fbe30800000000000000
+      internalID: 4521489262996690707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 5, y: 21}
+        - {x: 6, y: 13}
+        - {x: 5, y: 12}
+        - {x: 5, y: 9}
+        - {x: 8, y: 5}
+        - {x: 11, y: 4}
+        - {x: 15, y: 4}
+        - {x: 17, y: 2}
+        - {x: 21, y: 2}
+        - {x: 25, y: 4}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bf184d98bb4bd8a00800000000000000
+      internalID: 760462629659771387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 3}
+        - {x: 25, y: 4}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 4}
+        - {x: -22, y: 4}
+        - {x: -20, y: 6}
+        - {x: -17, y: 6}
+        - {x: -14, y: 4}
+        - {x: -10, y: 4}
+        - {x: -9, y: 5}
+        - {x: 1, y: 5}
+        - {x: 2, y: 4}
+        - {x: 5, y: 4}
+        - {x: 6, y: 3}
+        - {x: 9, y: 3}
+        - {x: 11, y: 5}
+        - {x: 15, y: 5}
+        - {x: 19, y: 3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: d62f03ca2c3c4fc00800000000000000
+      internalID: 933586263652495981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18}
+        - {x: -3, y: 21}
+        - {x: -3, y: 24}
+        - {x: -4, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 4}
+        - {x: -9, y: 4}
+        - {x: -4, y: 9}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6fa614419538fc9b0800000000000000
+      internalID: -5057679437898618122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -3}
+        - {x: 11, y: -2}
+        - {x: 5, y: -5}
+        - {x: 0, y: -2}
+        - {x: -2, y: -2}
+        - {x: -3, y: 1}
+        - {x: -3, y: 4}
+        - {x: -4, y: 6}
+        - {x: -2, y: 8}
+        - {x: -2, y: 16}
+        - {x: -4, y: 20}
+        - {x: -3, y: 21}
+        - {x: -3, y: 24}
+        - {x: -4, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -4}
+        - {x: 20, y: -4}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 43d1f0f59bd55b850800000000000000
+      internalID: 6392118296867446068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -3}
+        - {x: 12, y: -3}
+        - {x: 11, y: -4}
+        - {x: 8, y: -3}
+        - {x: 1, y: -2}
+        - {x: 0, y: -3}
+        - {x: -3, y: -3}
+        - {x: -4, y: -4}
+        - {x: -7, y: -2}
+        - {x: -11, y: -2}
+        - {x: -13, y: -4}
+        - {x: -17, y: -5}
+        - {x: -19, y: -3}
+        - {x: -23, y: -3}
+        - {x: -25, y: -4}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -4}
+        - {x: 23, y: -4}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b793a0913c0165b50800000000000000
+      internalID: 6581466335573326203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: 4, y: 21}
+        - {x: 5, y: 20}
+        - {x: 4, y: 18}
+        - {x: 4, y: 13}
+        - {x: 5, y: 12}
+        - {x: 6, y: 8}
+        - {x: 4, y: 5}
+        - {x: 4, y: 2}
+        - {x: 5, y: 1}
+        - {x: 5, y: -2}
+        - {x: -1, y: -3}
+        - {x: -4, y: -5}
+        - {x: -6, y: -3}
+        - {x: -12, y: -3}
+        - {x: -14, y: -5}
+        - {x: -15, y: -5}
+        - {x: -19, y: -3}
+        - {x: -24, y: -3}
+        - {x: -25, y: -4}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2a7a6e90d57b22410800000000000000
+      internalID: 1450923640192673698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 15}
+        - {x: -24, y: 13}
+        - {x: -25, y: 12}
+        - {x: -25, y: 7}
+        - {x: -23, y: 3}
+        - {x: -25, y: -1}
+        - {x: -25, y: -8}
+        - {x: -24, y: -13}
+        - {x: -25, y: -15}
+        - {x: -21, y: -20}
+        - {x: -20, y: -22}
+        - {x: -17, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 49f0003549337b210800000000000000
+      internalID: 1348603325561442196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -21, y: -25}
+        - {x: -20, y: -24}
+        - {x: -17, y: -24}
+        - {x: -16, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5de1593a40aa08f80800000000000000
+      internalID: -8106292392365842731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -24}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 23, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 667f045578f1a6da0800000000000000
+      internalID: -5950909291505322138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: -13, y: 25}
+        - {x: -17, y: 24}
+        - {x: -18, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 16}
+        - {x: -24, y: 15}
+        - {x: -24, y: 10}
+        - {x: -25, y: 9}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -25}
+        - {x: -21, y: -25}
+        - {x: -20, y: -24}
+        - {x: -17, y: -24}
+        - {x: -16, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0f6a8c9c9139defc0800000000000000
+      internalID: -3463950799409207568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 20}
+        - {x: 24, y: 20}
+        - {x: 19, y: 25}
+        - {x: 18, y: 25}
+        - {x: 15, y: 24}
+        - {x: 14, y: 25}
+        - {x: -2, y: 25}
+        - {x: -3, y: 24}
+        - {x: -6, y: 24}
+        - {x: -8, y: 25}
+        - {x: -17, y: 25}
+        - {x: -18, y: 24}
+        - {x: -19, y: 24}
+        - {x: -25, y: 18}
+        - {x: -25, y: 16}
+        - {x: -23, y: 12}
+        - {x: -25, y: 10}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 85d27ef5cd9c11680800000000000000
+      internalID: -8786019449684153000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 0}
+        - {x: 18, y: 4}
+        - {x: 16, y: 8}
+        - {x: 17, y: 9}
+        - {x: 17, y: 11}
+        - {x: 12, y: 17}
+        - {x: 3, y: 17}
+        - {x: 2, y: 18}
+        - {x: -4, y: 18}
+        - {x: -8, y: 15}
+        - {x: -11, y: 15}
+        - {x: -13, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: 7}
+        - {x: -13, y: 5}
+        - {x: -15, y: 2}
+        - {x: -15, y: -6}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -12, y: -13}
+        - {x: -9, y: -14}
+        - {x: -1, y: -14}
+        - {x: 0, y: -13}
+        - {x: 2, y: -13}
+        - {x: 6, y: -15}
+        - {x: 11, y: -15}
+        - {x: 16, y: -11}
+        - {x: 16, y: -6}
+        - {x: 15, y: -3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 78ce348af2f65d700800000000000000
+      internalID: 564479578782035079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 16}
+        - {x: -24, y: 15}
+        - {x: -24, y: 10}
+        - {x: -25, y: 9}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ecebbc27c34083a00800000000000000
+      internalID: 736343196745580238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: -14, y: 25}
+        - {x: -16, y: 24}
+        - {x: -17, y: 25}
+        - {x: -21, y: 25}
+        - {x: -24, y: 22}
+        - {x: -24, y: 20}
+        - {x: -25, y: 19}
+        - {x: -25, y: 15}
+        - {x: -24, y: 14}
+        - {x: -25, y: 12}
+        - {x: -25, y: 7}
+        - {x: -23, y: 3}
+        - {x: -25, y: -1}
+        - {x: -25, y: -8}
+        - {x: -24, y: -13}
+        - {x: -25, y: -15}
+        - {x: -21, y: -20}
+        - {x: -20, y: -22}
+        - {x: -17, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3fc55b51afa0e1f80800000000000000
+      internalID: -8134051807762227981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -25}
+        - {x: 25, y: 25}
+        - {x: -13, y: 25}
+        - {x: -17, y: 24}
+        - {x: -18, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -21, y: -25}
+        - {x: -20, y: -24}
+        - {x: -17, y: -24}
+        - {x: -16, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: daa976d521f99bc20800000000000000
+      internalID: 3222781909585599149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -25}
+        - {x: 25, y: -24}
+        - {x: 25, y: -7}
+        - {x: 24, y: -6}
+        - {x: 25, y: -4}
+        - {x: 25, y: 16}
+        - {x: 23, y: 18}
+        - {x: 23, y: 20}
+        - {x: 20, y: 24}
+        - {x: 19, y: 25}
+        - {x: -13, y: 25}
+        - {x: -17, y: 24}
+        - {x: -18, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -21, y: -25}
+        - {x: -20, y: -24}
+        - {x: -17, y: -24}
+        - {x: -16, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 61a3381d611af33a0800000000000000
+      internalID: -6683446202618136042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glide Hoob Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -24}
+        - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: 16}
+        - {x: -24, y: 15}
+        - {x: -24, y: 10}
+        - {x: -25, y: 9}
+        - {x: -25, y: -4}
+        - {x: -24, y: -5}
+        - {x: -24, y: -12}
+        - {x: -25, y: -13}
+        - {x: -25, y: -20}
+        - {x: -23, y: -25}
+        - {x: 23, y: -25}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a1c81a04174c50430800000000000000
+      internalID: 3748618255550483482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
