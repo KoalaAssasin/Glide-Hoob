@@ -1,2 +1,2 @@
 # Glide-Hoob
-GRP project 1
+RGP project 1
