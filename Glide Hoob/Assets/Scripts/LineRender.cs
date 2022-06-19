@@ -19,6 +19,9 @@ public class LineRender : MonoBehaviour
     {
         lineRenderer.useWorldSpace = false;
 
+        //Null check added as safe guard because of the joint being enabled and disabled regularly
+        if(tJ2D.target != null && tJ2D.anchor != null) {
         lineRenderer.SetPosition(1, transform.InverseTransformPoint(tJ2D.target));
+        }
     }
 }

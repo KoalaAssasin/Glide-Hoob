@@ -9,11 +9,19 @@ public class BasicGrapple : MonoBehaviour
     public Rigidbody2D rb2D;
     public TargetJoint2D tJ2D;
 
+    public LineRenderer lR;
+    public float grappleDistance;
+
     public Camera mainCam;
 
-    //TODO: When the distance between the anchor and target is beneath a certain amount,
-    //sets the target to stay with the anchor on update until target is relocated
+    //When the distance between the anchor and target is beneath a certain amount,
+    //disables the joint and line render until target is relocated
     //on mouse click.
+    void LetLoose()
+    {
+        tJ2D.enabled = false;
+        lR.enabled = false;
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -29,8 +37,21 @@ public class BasicGrapple : MonoBehaviour
             //Converts the point clicked on screen into an in-world position
             destinationPos = mainCam.ScreenToWorldPoint(Input.mousePosition);
 
+            tJ2D.enabled = true;
+            lR.enabled = true;
             //Sets the Target attribute of the target joint component to the location clicked
             tJ2D.target = destinationPos;
+        }
+
+        //Checks the distance between the anchor and target for the grapple
+        //I used the Line renderer points to measure it because the target joint
+        //Vectors get pretty wonky between local and world mode, and it did all sorts
+        //of funky stuff when I used that
+        grappleDistance = (lR.GetPosition(0) - lR.GetPosition(1)).magnitude;
+
+        if(tJ2D.enabled == true && grappleDistance < 1)
+        {
+            LetLoose();
         }
     }
 
