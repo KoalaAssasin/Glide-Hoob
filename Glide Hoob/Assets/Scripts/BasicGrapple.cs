@@ -6,6 +6,8 @@ public class BasicGrapple : MonoBehaviour
 {
     Vector3 destinationPos;
 
+    public bool canGrapple;
+
     public Rigidbody2D rb2D;
     public TargetJoint2D tJ2D;
 
@@ -34,13 +36,31 @@ public class BasicGrapple : MonoBehaviour
     {
         if(Input.GetMouseButtonDown(0))
         {
-            //Converts the point clicked on screen into an in-world position
-            destinationPos = mainCam.ScreenToWorldPoint(Input.mousePosition);
+            //Raycast from click point
+            RaycastHit2D hit = Physics2D.Raycast(mainCam.ScreenToWorldPoint(Input.mousePosition), Vector2.zero);
+            
+            if(hit.collider != null)
+            {
+                if(hit.collider.gameObject.tag == "Grappleable"){
+                    canGrapple = true;
+                }
+                else
+                {
+                    canGrapple = false;
+                }
+            }
 
-            tJ2D.enabled = true;
-            lR.enabled = true;
-            //Sets the Target attribute of the target joint component to the location clicked
-            tJ2D.target = destinationPos;
+            if(canGrapple == true){
+                //Converts the point clicked on screen into an in-world position
+                destinationPos = mainCam.ScreenToWorldPoint(Input.mousePosition);
+
+                tJ2D.enabled = true;
+                lR.enabled = true;
+                //Sets the Target attribute of the target joint component to the location clicked
+                tJ2D.target = destinationPos;
+                canGrapple = false;
+            }
+
         }
 
         //Checks the distance between the anchor and target for the grapple
