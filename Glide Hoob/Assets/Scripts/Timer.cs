@@ -8,8 +8,11 @@ public class Timer : MonoBehaviour
 
     public TMP_Text TimeUI;
     public GameObject uiTimerCanvas;
+    public GameObject uiSwitchCanvas;
     public float gameTime = 0;
     bool timerShown = false;
+    bool countingTime = true;
+    bool challengeMode = false;
 
     // Start is called before the first frame update
     void Start()
@@ -31,9 +34,29 @@ public class Timer : MonoBehaviour
             timerShown = false;
         }
 
-        //TimeUI.text += Time.deltaTime.ToString();
         TimeUI.text = gameTime.ToString();
-        gameTime += Time.deltaTime;
+
+        if (countingTime == true)
+        {
+            gameTime += Time.deltaTime;
+        }
+
+        if (Input.GetKeyDown(KeyCode.E) && countingTime == true)
+        {
+            if(timerShown == false)
+            {
+                uiTimerCanvas.SetActive(true);
+                timerShown = true;
+            }
+
+            uiSwitchCanvas.SetActive(true);
+            countingTime = false;
+        }
+        else if (Input.GetKeyDown(KeyCode.E) && countingTime == false)
+        {
+            uiSwitchCanvas.SetActive(false);
+            countingTime = true;
+        }
 
     }
 }
