@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2bd3e65e97d30124e8f765f8afcde37c
+  - enabled: 1
+    path: Assets/Scenes/GH_Post_Apocalypse.unity
+    guid: 22ec4f6c4e9775f458604dbcf53df5bb
   m_configObjects: {}
